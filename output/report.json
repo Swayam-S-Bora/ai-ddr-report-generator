@@ -1,0 +1,55 @@
+{
+  "summary": "The property has been inspected and thermal imaging has been conducted to identify areas of moisture presence. The inspection revealed dampness and efflorescence on walls, gaps between tile joints, and cracks on the external wall. Thermal imaging confirmed the presence of moisture in these areas. The property has a history of water seepage through tile joints and external structural cracks allowing water ingress. The thermal analysis indicates moisture presence, which is consistent with the inspection findings. The property requires immediate attention to prevent further damage and potential health risks. The recommended repairs include sealing gaps between tile joints, repairing cracks on the external wall, and addressing the root cause of water seepage. The property owner should also consider hiring a professional to inspect and repair the property's plumbing system to prevent future water damage.",
+  "areas": [
+    {
+      "area": "Hall",
+      "observation": "Dampness was observed at the skirting level of the Hall. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 28.8 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Seal gaps between tile joints and repair any cracks in the external wall to prevent further water seepage."
+    },
+    {
+      "area": "Common Bathroom",
+      "observation": "Gaps between tile joints were observed in the Common Bathroom. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 27.4 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Seal gaps between tile joints and repair any cracks in the external wall to prevent further water seepage."
+    },
+    {
+      "area": "Master Bedroom",
+      "observation": "Dampness was observed at the skirting level of the Master Bedroom. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 27 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Seal gaps between tile joints and repair any cracks in the external wall to prevent further water seepage."
+    },
+    {
+      "area": "Kitchen",
+      "observation": "Dampness was observed at the skirting level of the Kitchen. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 25.7 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Seal gaps between tile joints and repair any cracks in the external wall to prevent further water seepage."
+    },
+    {
+      "area": "Parking Area",
+      "observation": "Leakage was observed at the Parking ceiling. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 26.2 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Seal gaps between tile joints and repair any cracks in the external wall to prevent further water seepage."
+    },
+    {
+      "area": "External Wall",
+      "observation": "Cracks were observed on the External wall. Thermal imaging confirmed the presence of moisture in this area. The possible cause of this issue is water seepage through tile joints.",
+      "root_cause": "The root cause of this issue is likely water seepage through tile joints, which is a common problem in buildings with poor maintenance.",
+      "evidence": "Thermal imaging confirmed the presence of moisture in this area. The temperature reading was 27.3 \u00b0C, which is higher than the surrounding areas.",
+      "severity": "High",
+      "recommendation": "Repair cracks on the External wall and seal gaps between tile joints to prevent further water seepage."
+    }
+  ],
+  "additional_notes": "The property owner should also consider hiring a professional to inspect and repair the property's plumbing system to prevent future water damage. Regular maintenance and inspections can help prevent similar issues in the future.",
+  "missing_info": "Not Available"
+}
